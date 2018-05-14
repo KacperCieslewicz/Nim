@@ -39,6 +39,7 @@ public class Game {
                 }
             }
         }
+        scanner.close();
     }
 
     private void initializePiles() {
